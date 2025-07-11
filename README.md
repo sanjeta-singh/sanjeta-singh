@@ -1,4 +1,4 @@
-👋 Hi, I'm Sanjeta Singh
+![Header](./github-header-image)
 
 💼 Role
 College Student | Aspiring Cloud & DevOps Engineer | Passionate about Full-Stack Development
