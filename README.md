@@ -65,8 +65,18 @@ A user-focused web platform that integrates secure authentication, allowing indi
 *Tech Stack:* React, Node.js, MongoDB, Azure Blob Storage
 
 ✈ Aircraft Predictive Maintenance System (Ongoing)  
-A Kafka-based cloud project to simulate aircraft sensor data, detect faults, and manage auto-grounding of aircraft using microservices architecture.  
-*Tech Stack:* Kafka, Spring Boot (in progress), ReactJS, Azure
+A cloud-native system under development to simulate aircraft sensor data, stream it using Kafka, and process it through Spring Boot microservices for predictive maintenance and auto-grounding.
+
+🔹 Key Modules (in progress):
+Kafka-based sensor data ingestion
+Real-time analytics & alerting engine
+Failure prediction & auto-grounding service
+DSA-powered smart repair scheduler
+ReactJS dashboard for live aircraft monitoring
+Full deployment on Azure with Docker, AKS & CI/CD
+📡 Technologies: Kafka · Spring Boot · ReactJS · MongoDB · Azure · Docker · GitHub Actions
+
+🚧 Work in progress. Currently implementing analytics & prediction microservices.
 
 ---
 
