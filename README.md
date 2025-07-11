@@ -40,8 +40,6 @@ A Kafka-based cloud project to simulate aircraft sensor data, detect faults, and
 
 🔗 Let's Connect
 - [LinkedIn](https://linkedin.com/in/sanjeta-singh)
-- [GitHub](https://github.com/sanjeta-singh)
-
 ---
 
 ✈ Interests
