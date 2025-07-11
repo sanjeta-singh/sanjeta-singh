@@ -66,7 +66,6 @@ A user-focused web platform that integrates secure authentication, allowing indi
 
 ✈ Aircraft Predictive Maintenance System (Ongoing)  
 A cloud-native system under development to simulate aircraft sensor data, stream it using Kafka, and process it through Spring Boot microservices for predictive maintenance and auto-grounding.
-
 🔹 Key Modules (in progress):
 Kafka-based sensor data ingestion
 Real-time analytics & alerting engine
