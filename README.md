@@ -4,7 +4,7 @@
 
 🚀 Skills & Technologies
 - *Frontend:* ReactJS, HTML, CSS
-- *Backend:* Node.js, Express.js, REST APIs  
+- *Backend:* Kafka, Node.js, Express.js, REST APIs  
 - *Cloud & DevOps:* Azure (Cosmos DB, Blob Storage, Azure App Service), Docker  
 - *Databases:* MongoDB, MySQL  
 - *Programming:* Java (OOP), JavaScript (basics), Python (basics)  
