@@ -60,22 +60,18 @@
 
 🛠 Featured Projects
 
-🎨 Canvas of Care (Feb 2025 – Apr 2025)  
+
+✈ Flight Monitoring System
+Here’s the revised version without the CSV part:
+
+✈ **Flight Monitoring System — Summary**
+A Python producer continuously generates fake aircraft telemetry and publishes each record as JSON to the Kafka topic **aerog-data**. Kafka stores the messages until two independent Spring Boot services consume them: the **ingestion-service** deserializes the JSON and inserts raw telemetry into the **flight_data** collection in Azure Cosmos DB, while the **analytics-service** applies alert rules (e.g., engine temperature thresholds) and writes any alerts to the **alerts** collection. A React dashboard periodically calls a REST API to fetch new alerts and display them in real time.
+
+
+   🎨 Canvas of Care (Feb 2025 – Apr 2025)  
 A user-focused web platform that integrates secure authentication, allowing individuals to access a personalized dashboard featuring their selected hospital and doctor, with data managed via MongoDB. The platform utilizes Azure Blob Storage, leveraging the scalability and security of the cloud to seamlessly upload and display artwork created on an interactive canvas. It also includes a discreet MedBot assistant for conversational support and dedicated sections for both the drawing gallery and fundraising details. A precise application of authentication, cloud storage, and user-centered design.  
 *Tech Stack:* React, Node.js, MongoDB, Azure Blob Storage
 
-✈ Aircraft Predictive Maintenance System (Ongoing)  
-A cloud-native system under development to simulate aircraft sensor data, stream it using Kafka, and process it through Spring Boot microservices for predictive maintenance and auto-grounding.
-🔹 Key Modules (in progress):
-Kafka-based sensor data ingestion
-Real-time analytics & alerting engine
-Failure prediction & auto-grounding service
-DSA-powered smart repair scheduler
-ReactJS dashboard for live aircraft monitoring
-Full deployment on Azure with Docker, AKS & CI/CD
-📡 Technologies: Kafka · Spring Boot · ReactJS · MongoDB · Azure · Docker · GitHub Actions
-
-🚧 Work in progress. Currently implementing analytics & prediction microservices.
 
 ---
 
