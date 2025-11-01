@@ -60,7 +60,8 @@
 
 🛠 Featured Projects
 
-✈ Flight Monitoring System
+✈ Flight Monitoring System :
+
 A Python producer continuously generates fake aircraft telemetry and publishes each record as JSON to the Kafka topic **aerog-data**. Kafka stores the messages until two independent Spring Boot services consume them: the **ingestion-service** deserializes the JSON and inserts raw telemetry into the **flight_data** collection in Azure Cosmos DB, while the **analytics-service** applies alert rules (e.g., engine temperature thresholds) and writes any alerts to the **alerts** collection. A React dashboard periodically calls a REST API to fetch new alerts and display them in real time.
 
 
