@@ -72,8 +72,7 @@ A user-focused web platform that integrates secure authentication, allowing indi
 
 ---
 
-(https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg)
-
+![snake animation](https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg)
 
 🔗 Let's Connect
 - [LinkedIn](https://linkedin.com/in/sanjeta-singh)
