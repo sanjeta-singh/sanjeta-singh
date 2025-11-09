@@ -72,21 +72,13 @@ A user-focused web platform that integrates secure authentication, allowing indi
 
 ---
 
-🏆 Highlights
-- ✅ Building production-level full-stack and cloud-based projects  
-- ✅ Experience using Azure cloud services (App Service, Cosmos DB, Blob Storage) in real-world applications
+https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg
 
----
-
-🧭 Mission Statement  
-"I’m passionate about learning by building. I love exploring full-stack development and cloud technologies to create practical, user-centered web applications."
-
----
 
 🔗 Let's Connect
 - [LinkedIn](https://linkedin.com/in/sanjeta-singh)
 ---
 
 ✈ Interests
-- Deeply interested in *aviation* and love working on flight-related systems  
+- Deeply interested in *aviation*
 - Passionate about *building cloud-native apps* and learning through real-world projects
