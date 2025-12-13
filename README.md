@@ -4,10 +4,10 @@
 
 🚀 Skills & Technologies
 - *Frontend:* ReactJS, HTML, CSS
-- *Backend:* Kafka, Spring Boot, Node.js, Express.js, REST APIs  
+- *Backend:* Kafka, Spring Boot, Node.js, Express.js, REST APIs 
 - *Cloud & DevOps:* Azure (Cosmos DB, Blob Storage, Azure App Service), Docker  
 - *Databases:* MongoDB, MySQL  
-- *Programming:* Java (OOP), JavaScript (basics), Python (basics)  
+- *Programming:* Java, Python, Javascript
 - *Tools:* Git, GitHub, VS Code, Postman
 
   
@@ -77,7 +77,3 @@ A user-focused web platform that integrates secure authentication, allowing indi
 🔗 Let's Connect
 - [LinkedIn](https://linkedin.com/in/sanjeta-singh)
 ---
-
-✈ Interests
-- Deeply interested in *aviation*
-- Passionate about *building cloud-native apps* and learning through real-world projects
