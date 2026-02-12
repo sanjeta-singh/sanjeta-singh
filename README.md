@@ -5,8 +5,8 @@
 🚀 Skills & Technologies
 - *Frontend:* ReactJS, HTML, CSS
 - *Backend:* Kafka, Spring Boot, Node.js, Express.js, REST APIs 
-- *Cloud & DevOps:* Azure (Cosmos DB, Blob Storage, Azure App Service), Docker  
-- *Databases:* MongoDB, MySQL  
+- *Cloud & DevOps:* Linux, Azure, Docker, Jenkins, Terraform   
+- *Databases:* NoSQL, MySQL  
 - *Programming:* Java, Python, Javascript
 - *Tools:* Git, GitHub, VS Code, Postman
 
@@ -58,17 +58,12 @@
 
 ---
 
-🛠 Featured Projects
+## 🌱 Currently Exploring
+I am actively diving into the world of Open Source! As a beginner, I’m focused on learning the contribution workflow, improving documentation, and tackling "good first issues."
 
-✈ Flight Monitoring System :
+Just a beginner trying to soak up as much as I can. If I break something or mess up a PR, please call it out! I'd way rather get the feedback so I can learn how to do it right the next time.
 
-A Python producer continuously generates fake aircraft telemetry and publishes each record as JSON to the Kafka topic **aerog-data**. Kafka stores the messages until two independent Spring Boot services consume them: the **ingestion-service** deserializes the JSON and inserts raw telemetry into the **flight_data** collection in Azure Cosmos DB, while the **analytics-service** applies alert rules (e.g., engine temperature thresholds) and writes any alerts to the **alerts** collection. A React dashboard periodically calls a REST API to fetch new alerts and display them in real time.
-
-
-   🎨 Canvas of Care (Feb 2025 – Apr 2025)  
-A user-focused web platform that integrates secure authentication, allowing individuals to access a personalized dashboard featuring their selected hospital and doctor, with data managed via MongoDB. The platform utilizes Azure Blob Storage, leveraging the scalability and security of the cloud to seamlessly upload and display artwork created on an interactive canvas. It also includes a discreet MedBot assistant for conversational support and dedicated sections for both the drawing gallery and fundraising details. A precise application of authentication, cloud storage, and user-centered design.  
-*Tech Stack:* React, Node.js, MongoDB, Azure Blob Storage
-
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red)
 
 ---
 
