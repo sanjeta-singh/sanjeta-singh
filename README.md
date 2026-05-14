@@ -1,5 +1,7 @@
 ![Header](./github-header-image.png)
 
+GSSoC Contributor '26 | Global Nominee & Local Finalist - NASA Space Apps Challenge 2025
+
 ---
 
 🚀 Skills & Technologies
