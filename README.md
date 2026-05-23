@@ -6,11 +6,11 @@ GSSoC Contributor '26 | Global Nominee & Local Finalist - NASA Space Apps Challe
 
 🚀 Skills & Technologies
 - *Frontend:* ReactJS, HTML, CSS
-- *Backend:* Kafka, Spring Boot, Node.js, Express.js, REST APIs 
-- *Cloud & DevOps:* Linux, Azure, Docker, Jenkins, Terraform   
-- *Databases:* NoSQL, MySQL  
-- *Programming:* Java, Python, Javascript
-- *Tools:* Git, GitHub, VS Code, Postman
+- *Backend:* Apache Kafka, Spring Boot, Node.js, Express.js, REST APIs 
+- *Cloud & DevOps:* Linux, Azure, Shell Scripting, Docker, Jenkins, Terraform, AWS   
+- *Databases:* MongoDB, Redis  
+- *Programming:* Java, Python
+- *Tools:* Git, GitHub, Postman
 
   
 
