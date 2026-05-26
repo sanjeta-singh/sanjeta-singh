@@ -47,9 +47,7 @@ Just a beginner trying to soak up as much as I can. If I break something or mess
 
 ---
 
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/sanjeta-singh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeta-singh&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
