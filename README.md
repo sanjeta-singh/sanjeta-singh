@@ -1,4 +1,11 @@
-![Header](./github-header-image.png)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sanjeta Singh
+======================================================================================================================================
+
+Aspiring DevOps & Cloud Engineer
+--------------------------------
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="650">
+<br><br>
 
 GSSoC Contributor '26 | Global Nominee & Local Finalist - NASA Space Apps Challenge 2025
 
@@ -70,6 +77,17 @@ Just a beginner trying to soak up as much as I can. If I break something or mess
 ---
 
 ![snake animation](https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg)
+
+### Socials
+
+</picture> </a> <a href="https://www.linkedin.com/in/sanjeta-singh/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/beenthatsanj" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/sanjeta-singh"><img src="https://github-readme-stats.vercel.app/api?username=sanjeta-singh&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="sanjeta-singh's GitHub stats" /></a>
+
+<a href="http://www.github.com/sanjeta-singh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeta-singh&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 🔗 Let's Connect
 - [LinkedIn](https://linkedin.com/in/sanjeta-singh)
