@@ -6,11 +6,12 @@ Aspiring DevOps & Cloud Engineer
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="850">
 
-## 🌟GSSoC Contributor'26 | Global Nominee & Local Finalist - NASA Space Apps Challenge'25
+## 🌟GSSoC Contributor '26 
+## 🌟Global Nominee & Local Finalist - NASA Space Apps Challenge '25
 
 ---
 
-## Skills & Technologies
+##  Skills & Technologies
 - *Frontend:* ReactJS, HTML, CSS
 - *Backend:* Apache Kafka, Spring Boot, Node.js, Express.js, REST APIs 
 - *Cloud & DevOps:* Linux, Azure, Shell Scripting, Docker, Jenkins, Terraform, AWS   
